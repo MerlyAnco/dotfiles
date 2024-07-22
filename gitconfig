@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = merly2257@gmail.com
+	name = Merly Anco
